@@ -1,0 +1,4 @@
+.maintrend {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,17 @@
+.chatmain {
+  position: relative;
+  display: grid;
+  grid-template-columns: 22% auto;
+  gap: 1rem;
+}
+.chatleftside {
+  position: relative;
+  display: grid;
+  gap: 1rem;
+}
+.chatcontainer {
+  position: relative;
+  display: grid;
+  gap: 1rem;
+  height: auto;
+}

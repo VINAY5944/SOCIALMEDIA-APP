@@ -1,0 +1,21 @@
+.postcards {
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  align-items: center;
+  justify-content: center;
+  gap: 2 rem;
+  margin-bottom: 20px;
+  border: solid;
+  border-color: 	#dfe3ee;
+  box-shadow: 1px 1px 2px 2px 	#dfe3ee;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+.postimage {
+  height: 500px;
+  width: 500px;
+  margin-top: 10px;
+}

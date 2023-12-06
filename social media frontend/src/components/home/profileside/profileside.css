@@ -1,0 +1,9 @@
+.mainprofile{
+display: flex;
+background-color:DFE3EE;
+flex-direction: column;
+gap: 1rem;
+align-items: center;
+overflow: auto;
+
+}

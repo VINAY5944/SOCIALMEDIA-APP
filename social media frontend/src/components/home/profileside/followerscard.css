@@ -1,0 +1,22 @@
+.profileimg {
+  height: 50px;
+  width: 50px;
+  border-radius: 1rem;
+}
+.followermaindiv {
+  margin-top: 300px;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.flwcard {
+  border: solid;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  align-self: center;
+  width: 80%;
+  margin-bottom: 1%;
+  border-radius: .5rem;
+  margin-bottom: 10px;
+}

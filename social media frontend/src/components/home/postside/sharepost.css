@@ -1,0 +1,14 @@
+.imageopening {
+  width: 150px;
+  height: 150px;
+}
+.sharepostmaindiv {
+  position: fixed;
+  background-color:#DFE3EE;
+  width: 50%;
+  border-radius: 1rem;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  justify-items: center;
+}
